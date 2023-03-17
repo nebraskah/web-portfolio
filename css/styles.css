@@ -1,0 +1,16 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
